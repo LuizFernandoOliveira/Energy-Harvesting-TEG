@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PhD_Energy_Harvesting_TEG.PrjPcb]
+   Generated File[Board.TXT]
+   Generated File[Board.LDP]
+   Generated File[Board.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:09:59 On 02/10/2021
